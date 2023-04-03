@@ -1,0 +1,43 @@
+<div class="container text-center">
+  <div class="row row-cols-4">
+    <div class="col">Column</div>
+    <div class="col">Column</div>
+    <div class="col">Column</div>
+    <div class="col">Column</div>
+  </div>
+</div>
+<div id="about" class="container" >
+    <div class="card">
+      <img src="./images/curry.jpeg" alt="curry" class="imgcard">
+      <div class="intro">
+        <h1> Curry</h1>
+        <p class="aboutmenu"><span>Chicken curry</span> is the best curry with good taste.
+        </p>
+      </div>
+    </div>
+    <div class="card">
+      <img src="./images/hotsoup.jpeg" alt="soup" class="imgcard">
+      <div class="intro">
+        <h1> Soup</h1>
+        <p class="aboutmenu">
+          The <span>Soup</span> is one of the healthiest soups
+        </p>
+      </div>
+    </div>
+    <div class="card">
+      <img src="./images/burger.jpeg" alt="burgar" class="imgcard">
+      <div class="intro">
+        <h1> Burgar</h1>
+        <p class="aboutmenu">
+          A <span>Burgar</span> is most delious food made of beef
+        </p>
+      </div>
+    </div>
+    <div class="card">
+      <img src="./images/dessert.jpeg" alt="dessert" class="imgcard">
+      <div class="intro">
+        <h1> Dessert</h1>
+        <p class="aboutmenu">The <span>Dessert</span> is the sweet food after having the table </p>
+      </div>
+    </div>
+  </div><br>
